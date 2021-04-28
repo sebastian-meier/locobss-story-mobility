@@ -1,3 +1,5 @@
+This repo is part of the LoCobSS research project. More details about the project and dependencies to other repos can be found [here](https://github.com/sebastian-meier/LoCobSS-documentation).
+
 # BMBF: Wie weit komme ich mit meinem CO₂ Budget?
 
 ## Get started
