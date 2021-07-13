@@ -132,7 +132,6 @@
       {#if current}
         <Map
           data={current}
-          animate={true}
           hasPulsingDot={true}
           lat={current.centroid.y}
           lon={current.centroid.x}

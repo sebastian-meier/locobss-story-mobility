@@ -81,7 +81,6 @@
       <Map
         data={currentData}
         hasPulsingDot={true}
-        animate={false}
         lat={51}
         lon={9}
         zoom={6} />

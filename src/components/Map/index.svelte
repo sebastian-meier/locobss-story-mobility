@@ -8,7 +8,6 @@
 
   export let hasPulsingDot
   export let data
-  export let animate
   let map
   let scale
 
@@ -33,6 +32,7 @@
       scrollZoom: false,
       attributionControl: false,
       accessToken,
+      logoPosition: 'top-left'
     })
 
     scale = new Scale({
