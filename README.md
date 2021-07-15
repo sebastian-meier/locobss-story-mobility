@@ -29,3 +29,8 @@ To create an optimised version of the app:
 ```bash
 npm run build
 ```
+
+## Support
+
+![Mapbox]()
+This project is supported by the [Mapbox community program](https://mapbox.com/community/).

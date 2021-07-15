@@ -128,6 +128,9 @@
     <div class="row">
       <h3 class="title">Methodik</h3>
       {@html appendix.method}
+      <div class="item-wrapper" style="width: 100%;">
+        <span class="item-text">{@html appendix.privacy}</span>
+      </div>
     </div>
     <div class="row">
       <div class="sources">
@@ -151,8 +154,10 @@
           </div>
         {/each}
         <div class="item-wrapper" style="width: 100%;">
-          <span class="item-text">{@html appendix.privacy}</span>
-        </div>
+          <img src="/data/mapbox-logo-black.svg" alt="Mapbox"
+                style="max-width: 100%; height: auto; width:130px;" />
+          <span class="item-text">{@html appendix.mapbox}</span>
+        </div>        
       </div>
     </div>
   </div>
