@@ -32,5 +32,5 @@ npm run build
 
 ## Support
 
-![Mapbox]()
+![Mapbox](https://github.com/sebastian-meier/locobss-story-mobility/blob/main/public/data/mapbox-logo-black.svg)
 This project is supported by the [Mapbox community program](https://mapbox.com/community/).
